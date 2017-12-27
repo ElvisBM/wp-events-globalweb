@@ -1,6 +1,6 @@
 # WP Events Global Web
 
-## Description
+## Descrição
 Plugin Simples de Calendário, Criado para Global Web, 
 
 ## Requisitos
